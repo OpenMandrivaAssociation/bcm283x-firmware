@@ -18,10 +18,6 @@ URL:           https://github.com/raspberrypi/
 
 ExclusiveArch: %{armx}
 
-BuildRequires: efi-filesystem
-BuildRequires: efi-srpm-macros
-Requires:      efi-filesystem
-
 Source0:       %{name}-%{gitshort}.tar.xz
 Source1:       config.txt
 Source2:       config-64.txt
