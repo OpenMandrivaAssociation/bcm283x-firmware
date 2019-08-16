@@ -16,7 +16,7 @@ Summary:       Broadcom bcm283x firmware for the Raspberry Pi
 License:       Redistributable, no modification permitted
 URL:           https://github.com/raspberrypi/
 
-#ExclusiveArch: %{armx}
+ExclusiveArch: %{armx}
 
 BuildRequires: efi-filesystem
 BuildRequires: efi-srpm-macros
