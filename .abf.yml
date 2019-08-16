@@ -1,0 +1,7 @@
+sources:
+  bcm2836-rpi-2-b.dtb: 05bbae57d339793dd4cb69a27a11ea8a5dc1955b
+  bcm2837-rpi-3-a-plus.dtb: 1feaafe435880858ecdda8107debfcde0dc2608e
+  bcm2837-rpi-3-b-plus.dtb: 569b6f410d5498d9c967516860e60e6157c7ebf3
+  bcm2837-rpi-3-b.dtb: a698449d39e2d5d43f699e4c5e8e6e49bc94d9c6
+  bcm2837-rpi-cm3-io3.dtb: 7d98e5878ae8a26a9dd21ef1fe04d1681e9f740b
+  bcm283x-firmware-3822340.tar.xz: 4daa5731f0e561f1977405d81b38dfe508a1bdfe
